@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##About
+
+Simple app for testing CRUD operations using fake API. Validation is enabled on the form.
+ - As a REST API it is used <strong>JSONPlaceholder</strong> <br />
+ - For the easier passing data throught component tree it is used{' '}
+        <strong>Context</strong> <br />
+ - <strong>Axios</strong> is used for
+        promise based HTTP client <br />
+ - <strong>ReactRouter</strong> for
+        navigation throught page <br />
+ - <strong>ClassNames</strong> for
+        conditionally joining classNames together <br />
+ - {' '} <strong>Bootstrap</strong> for style <br />
+ - {' '} <strong>FontAwesome</strong> for icons
+
 ## Available Scripts
 
 In the project directory, you can run:
